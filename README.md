@@ -37,39 +37,39 @@
  - 한번만 실행하고 싶다면 키값을 설정한 후, `macro.py`을 실행하면 됩니다.
 
 ## 교육청 코드
-  서울특별시 교육청 : sen
-  부산광역시 교육청 : pen
-  대구광역시 교육청 : dge
-  인천광역시 교육청 : ice
-  광주광역시 교육청 : gen
-  대전광역시 교육청 : dje
-  울산광역시 교육청 : use
-  세종특별자치시 교육청 : sje
-  경기도 교육청 : goe
-  강원도 교육청 : gwe
-  충청북도 교육청 : cbe
-  충청남도 교육청 : cne
-  전라북도 교육청 : jbe
-  전라남도 교육청 : jne
-  경상북도 교육청 : kbe
-  경상남도 교육청 : gne
-  제주특별자치도 교육청 : jje
+  - 서울특별시 교육청 : sen
+  - 부산광역시 교육청 : pen
+  - 대구광역시 교육청 : dge
+  - 인천광역시 교육청 : ice
+  - 광주광역시 교육청 : gen
+  - 대전광역시 교육청 : dje
+  - 울산광역시 교육청 : use
+  - 세종특별자치시 교육청 : sje
+  - 경기도 교육청 : goe
+  - 강원도 교육청 : gwe
+  - 충청북도 교육청 : cbe
+  - 충청남도 교육청 : cne
+  - 전라북도 교육청 : jbe
+  - 전라남도 교육청 : jne
+  - 경상북도 교육청 : kbe
+  - 경상남도 교육청 : gne
+  - 제주특별자치도 교육청 : jje
 
 ## 자가진단 페이지 주소 모음
-  [서울특별시 교육청](https://eduro.sen.go.kr/hcheck/index.jsp)
-  [부산광역시 교육청](https://eduro.pen.go.kr/hcheck/index.jsp)
-  [대구광역시 교육청](https://eduro.dge.go.kr/hcheck/index.jsp)
-  [인천광역시 교육청](https://eduro.ice.go.kr/hcheck/index.jsp)
-  [광주광역시 교육청](https://eduro.gen.go.kr/hcheck/index.jsp)
-  [대전광역시 교육청](https://eduro.dje.go.kr/hcheck/index.jsp)
-  [울산광역시 교육청](https://eduro.use.go.kr/hcheck/index.jsp)
-  [세종특별자치시 교육청](https://eduro.sje.go.kr/hcheck/index.jsp)
-  [경기도 교육청](https://eduro.goe.go.kr/hcheck/index.jsp)
-  [강원도 교육청](https://eduro.gwe.go.kr/hcheck/index.jsp)
-  [충청북도 교육청](https://eduro.cbe.go.kr/hcheck/index.jsp)
-  [충청남도 교육청](https://eduro.cne.go.kr/hcheck/index.jsp)
-  [전라북도 교육청](https://eduro.jbe.go.kr/hcheck/index.jsp)
-  [전라남도 교육청](https://eduro.jne.go.kr/hcheck/index.jsp)
-  [경상북도 교육청](https://eduro.kbe.go.kr/hcheck/index.jsp)
-  [경상남도 교육청](https://eduro.gne.go.kr/hcheck/index.jsp)
-  [제주특별자치도 교육청](https://eduro.jje.go.kr/hcheck/index.jsp)
+  - [서울특별시 교육청](https://eduro.sen.go.kr/hcheck/index.jsp)
+  - [부산광역시 교육청](https://eduro.pen.go.kr/hcheck/index.jsp)
+  - [대구광역시 교육청](https://eduro.dge.go.kr/hcheck/index.jsp)
+  - [인천광역시 교육청](https://eduro.ice.go.kr/hcheck/index.jsp)
+  - [광주광역시 교육청](https://eduro.gen.go.kr/hcheck/index.jsp)
+  - [대전광역시 교육청](https://eduro.dje.go.kr/hcheck/index.jsp)
+  - [울산광역시 교육청](https://eduro.use.go.kr/hcheck/index.jsp)
+  - [세종특별자치시 교육청](https://eduro.sje.go.kr/hcheck/index.jsp)
+  - [경기도 교육청](https://eduro.goe.go.kr/hcheck/index.jsp)
+  - [강원도 교육청](https://eduro.gwe.go.kr/hcheck/index.jsp)
+  - [충청북도 교육청](https://eduro.cbe.go.kr/hcheck/index.jsp)
+  - [충청남도 교육청](https://eduro.cne.go.kr/hcheck/index.jsp)
+  - [전라북도 교육청](https://eduro.jbe.go.kr/hcheck/index.jsp)
+  - [전라남도 교육청](https://eduro.jne.go.kr/hcheck/index.jsp)
+  - [경상북도 교육청](https://eduro.kbe.go.kr/hcheck/index.jsp)
+  - [경상남도 교육청](https://eduro.gne.go.kr/hcheck/index.jsp)
+  - [제주특별자치도 교육청](https://eduro.jje.go.kr/hcheck/index.jsp)
