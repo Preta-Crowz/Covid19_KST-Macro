@@ -1,5 +1,6 @@
 {
     "time": 7,
     "headless": true,
-    "key": "Input your key here"
+    "domain": "교육청 도메인 앞자리 입력",
+    "key": "사용자 인증 키 입력"
 }

@@ -10,7 +10,7 @@ options.add_argument("disable-gpu")
 
 driver = webdriver.Chrome('chromedriver', chrome_options=options)
 
-url = "https://eduro.dge.go.kr/stv_cvd_co00_000.do?k="+config['key']
+url = "https://eduro."+config["domain"]+".go.kr/stv_cvd_co00_000.do?k="+config['key']
 driver.get(url)
 
 if driver.current_url != url: sys.exit(1)
