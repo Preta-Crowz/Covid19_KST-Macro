@@ -1,5 +1,5 @@
 from selenium import webdriver
-import json, sys
+import json, sys, time
 config = json.load(open('./config.json', 'r'))
 
 options = webdriver.ChromeOptions()
@@ -19,6 +19,8 @@ for btnName in ["rspns011", "rspns02", "rspns070", "rspns080", "rspns090"]:
     driver.find_element_by_id(btnName).click()
 
 driver.find_element_by_id("btnConfirm").click()
+
+if config["headless"] is False: time.sleep(10)
 
 if driver.find_element_by_class_name("content_box").text.find("자가진단 참여를 완료하였습니다.") != -1:
     driver.close()
