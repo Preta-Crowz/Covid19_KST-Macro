@@ -1,6 +1,10 @@
 {
     "time": 7,
-    "headless": true,
-    "domain": "교육청 도메인 앞자리 입력",
-    "key": "사용자 인증 키 입력"
+    "auth": {
+        "name": "이름",
+        "birth": "YYMMDD",
+        "region": "지역",
+        "school": "교명",
+        "type": "학교 종류"
+    }
 }

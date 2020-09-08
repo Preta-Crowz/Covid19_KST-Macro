@@ -12,7 +12,7 @@ filehandler = logging.FileHandler("macro.log")
 filehandler.setFormatter(formatter)
 log.addHandler(filehandler)
 
-config = json.load(open('./config.json', 'r'))
+config = json.load(open('./config.json', 'r', encoding='utf-8'))
 
 def getNextRun(current):
     date = current.date() + datetime.timedelta(1)

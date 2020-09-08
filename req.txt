@@ -1,4 +1,3 @@
-selenium
 pycrypto
 requests
 neispy
