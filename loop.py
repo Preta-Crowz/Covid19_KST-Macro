@@ -1,3 +1,4 @@
+from Selfcheck import check as sc
 import json, datetime, os, logging, time
 log = logging.getLogger("Macro")
 log.setLevel(logging.INFO)
@@ -32,14 +33,8 @@ while(True):
         continue
     if remain <= 0:
         log.info("Running macro")
-        res = os.system("python macro.py")
-        if res == 0:
-            log.info("Done work")
-        elif res == 2:
-            log.warn("Done work, some problems on result")
-        else:
-            log.error("Key does not match! Check the key and try again.")
-            sys.exit(1)
+        data = sc.selfcheck(*list(config["auth"].values()))
+        log.info("Last return data : " + data)
         next = getNextRun(datetime.datetime.now())
         log.info("Next run on: " + str(next))
 
