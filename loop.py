@@ -34,7 +34,7 @@ while(True):
     if remain <= 0:
         log.info("Running macro")
         data = sc.selfcheck(*list(config["auth"].values()))
-        log.info("Last return data : " + data)
+        log.info("Last return data : " + str(data))
         next = getNextRun(datetime.datetime.now())
         log.info("Next run on: " + str(next))
 
